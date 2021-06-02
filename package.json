@@ -25,5 +25,10 @@
   },
   "simple-git-hooks": {
     "pre-commit": "yarn hook:pre-commit"
-  }
+  },
+  "dependencies": {
+    "promise-fs": "^2.1.1"
+  },
+  "repository": "https://github.com/yui666a/html-stations.git",
+  "author": "yui666a <haiso666@gmail.com>"
 }
